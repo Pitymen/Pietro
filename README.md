@@ -1,4 +1,4 @@
-## Olá, eu sou o Pietro Cesário 
+## Olá, eu sou Pietro Cesário 
 
 - Atualmente, trabalho com desenvolvimento web
 - Estudando JAVA
